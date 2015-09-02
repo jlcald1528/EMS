@@ -31,6 +31,7 @@ gem 'autoprefixer-rails'
 gem 'pg'
 gem 'cowsay'
 
+
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '~> 3.1.7'
 
