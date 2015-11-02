@@ -1,9 +1,8 @@
 class HomeController < ApplicationController
-	def home
-
+	def index
 	end
+	
 
-	def contacts
-		
+	def test
 	end
 end
